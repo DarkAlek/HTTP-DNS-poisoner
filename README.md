@@ -1,1 +1,2 @@
 # WiFiHackTool
+Test repo permissions
